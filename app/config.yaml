@@ -1,5 +1,5 @@
 resize_shape: [256, 256]
 targets: ['Fire_Images']
 model_file_paths: ["fire_cnn_classifier.h5", "fire_cnn_classifier_layers.json"]
-base_model_url: "https://github.com/tristann3/FireDetectionAPI/releases/tag/pre-release"
+base_model_url: "https://github.com/tristann3/FireDetectionAPI/releases/download/v0.0.3"
 model_sha256: "aedb513b9bdd4d27ecbdb4e47f92e89a84aaa6d0"
